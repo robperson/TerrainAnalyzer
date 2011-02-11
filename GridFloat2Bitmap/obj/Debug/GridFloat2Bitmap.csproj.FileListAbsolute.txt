@@ -1,0 +1,16 @@
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\bin\Debug\GridFloat2Bitmap.exe
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\bin\Debug\GridFloat2Bitmap.pdb
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.Form1.resources
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.Properties.Resources.resources
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.csproj.GenerateResource.Cache
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.exe
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.pdb
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.exe
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.pdb
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.Form1.resources
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.Properties.Resources.resources
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\obj\Debug\GridFloat2Bitmap.csproj.GenerateResource.Cache
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\bin\Debug\GridFloat2Bitmap.exe
+C:\Users\robperson\Documents\Visual Studio 2008\Projects\GridFloat2Bitmap3\GridFloat2Bitmap\bin\Debug\GridFloat2Bitmap.pdb
